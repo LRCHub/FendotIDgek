@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Lullaby Of A Deadman",
+  "base_artist": "Kevin Sherwood、Elena Siegman、Corey Redgrift",
+  "createdAt": "2026-03-25T04:06:46.814526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman",
+      "artist": "Phoenix Hearts",
+      "has_synced": false,
+      "path": "select/01_Lullaby_of_a_Deadman_Phoenix_Hearts.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Treyarch",
+      "has_synced": true,
+      "path": "select/02_Lullaby_Of_A_Deadman_Treyarch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Treyarch Sound",
+      "has_synced": true,
+      "path": "select/03_Lullaby_Of_A_Deadman_Treyarch_Sound.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman [Verrückt]",
+      "artist": "Treyarch",
+      "has_synced": true,
+      "path": "select/04_Lullaby_of_a_Deadman_[Verrückt]_Treyarch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman",
+      "artist": "Treyarch Sound",
+      "has_synced": true,
+      "path": "select/05_Lullaby_of_a_Deadman_Treyarch_Sound.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman",
+      "artist": "Brian Tuey",
+      "has_synced": true,
+      "path": "select/06_Lullaby_of_a_Deadman_Brian_Tuey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman",
+      "artist": "Brian Tuey",
+      "has_synced": true,
+      "path": "select/07_Lullaby_of_a_Deadman_Brian_Tuey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman [Verrückt]",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_Lullaby_of_a_Deadman_[Verrückt]_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/09_Lullaby_Of_A_Deadman_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "James McCawley",
+      "has_synced": true,
+      "path": "select/10_Lullaby_Of_A_Deadman_James_McCawley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood, James McCawley, Brian Tuey",
+      "has_synced": true,
+      "path": "select/11_Lullaby_Of_A_Deadman_Kevin_Sherwood,_James_McCawley,_Brian_Tuey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Brian Tuey, James McCawley and Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/12_Lullaby_Of_A_Deadman_Brian_Tuey,_James_McCawley_and_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman",
+      "artist": "Treyarch Sound, Brian Tuey, James McCawley & Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/13_Lullaby_of_a_Deadman_Treyarch_Sound,_Brian_Tuey,_James_McCawley_&_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman (From Call of Duty World at War)",
+      "artist": "Treyarch Sound",
+      "has_synced": false,
+      "path": "select/14_Lullaby_Of_A_Deadman_(From_Call_of_Duty_World_at_War)_Treyarch_Sound.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lullaby of a Deadman [Verrückt]",
+      "artist": "Brian Tuey, James McCawley & Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/15_Lullaby_of_a_Deadman_[Verrückt]_Brian_Tuey,_James_McCawley_&_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood, James McCawley, Treyarch Sound & Brian Tuey",
+      "has_synced": true,
+      "path": "select/16_Lullaby_Of_A_Deadman_Kevin_Sherwood,_James_McCawley,_Treyarch_Sound_&_Brian_Tuey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood, Brian Tuey, James McCawley",
+      "has_synced": true,
+      "path": "select/17_Lullaby_Of_A_Deadman_Kevin_Sherwood,_Brian_Tuey,_James_McCawley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Treyarch Sound feat. Brian Tuey, James McCawley & Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/18_Lullaby_Of_A_Deadman_Treyarch_Sound_feat._Brian_Tuey,_James_McCawley_&_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Treyarch Sound/Brian Tuey/James McCawley/Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/19_Lullaby_Of_A_Deadman_Treyarch_Sound_Brian_Tuey_James_McCawley_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman (feat. Elena Siegman & Corey Redgrift)",
+      "artist": "Kevin Sherwood",
+      "has_synced": true,
+      "path": "select/20_Lullaby_Of_A_Deadman_(feat._Elena_Siegman_&_Corey_Redgrift)_Kevin_Sherwood.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Lullaby of a Dead Man",
+      "artist": "Treyarch Sound",
+      "has_synced": true,
+      "path": "select/21_Lullaby_of_a_Dead_Man_Treyarch_Sound.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood; James McCawley; Brian Tuey",
+      "has_synced": true,
+      "path": "select/22_Lullaby_Of_A_Deadman_Kevin_Sherwood;_James_McCawley;_Brian_Tuey.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood\u0000James McCawley\u0000Brian Tuey",
+      "has_synced": true,
+      "path": "select/23_Lullaby_Of_A_Deadman_Kevin_Sherwood\u0000James_McCawley\u0000Brian_Tuey.lrc"
+    }
+  ]
+}
